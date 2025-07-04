@@ -25,6 +25,26 @@ versions.v1 = {
   ],
   bonusarray: [
     {
+      name: "Follow",
+      src: "4-b2-follow-hb",
+      code: "1,6,8,12,18",
+      sound: "bonus-follow",
+      aspire: "aspire",
+      expire: "",
+      icon: "",
+      loop: 1,
+    },
+    {
+      name: "blank",
+      src: "b1-v1-blank-hb",
+      code: "1,2,3,4,5",
+      sound: "aspire-blank",
+      aspire: "aspire-blank",
+      expire: "",
+      icon: "",
+      loop: 1,
+    },
+    {
       name: "blank",
       src: "b1-v1-blank-hb",
       code: "1,2,3,4,5",
