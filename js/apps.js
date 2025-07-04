@@ -7,8 +7,8 @@ versions.v1 = {
   date: "2025",
   folder: "asset-v1/",
   ambience: "",
-  looptime: 5333,
-  bpm: 90,
+  looptime: 8e3,
+  bpm: 120,
   totalframe: 260,
   nbpolo: 7,
   maxrecloop: 24,
@@ -21,106 +21,7 @@ versions.v1 = {
   col3: "#373737",
   col4: "#232323",
   animearray: [
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
-    {
-      name: "temp_polo",
-      color: "7D7D7D",
-      uniqsnd: !0,
-    },
+    {name:"drum1_kick",color:"E5A90E",uniqsnd:!1},{name:"drum2_snare",color:"E5A90E",uniqsnd:!1},{name:"drum3_touti",color:"E5A90E",uniqsnd:!0},{name:"drum4_charley",color:"E5A90E",uniqsnd:!0},{name:"drum5_chatom",color:"E5A90E",uniqsnd:!1},{name:"effect1_bass",color:"0CB6CB",uniqsnd:!1},{name:"effect2_enigmatic",color:"0CB6CB",uniqsnd:!0},{name:"effect3_cry",color:"0CB6CB",uniqsnd:!0},{name:"effect4_odoyouno",color:"0CB6CB",uniqsnd:!0},{name:"effect5_oua",color:"0CB6CB",uniqsnd:!0},{name:"melo1_toun",color:"F42828",uniqsnd:!1},{name:"melo2_flute",color:"F42828",uniqsnd:!1},{name:"melo3_neou",color:"F42828",uniqsnd:!1},{name:"melo4_hu",color:"F42828",uniqsnd:!0},{name:"melo5_ah",color:"F42828",uniqsnd:!0},{name:"chips1_feel",color:"787DFF",uniqsnd:!1},{name:"chips2_chillin",color:"787DFF",uniqsnd:!0},{name:"chips3_yeah",color:"787DFF",uniqsnd:!0},{name:"chips4_filback",color:"787DFF",uniqsnd:!1},{name:"chips5_teylo",color:"787DFF",uniqsnd:!0},
   ],
   bonusarray: [
     {
