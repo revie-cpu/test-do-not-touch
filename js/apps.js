@@ -7,7 +7,7 @@ versions.v1 = {
   date: "2025",
   folder: "asset-v1/",
   ambience: "",
-  looptime: 8e3,
+  looptime: 8000,
   bpm: 120,
   totalframe: 384,
   nbpolo: 7,
