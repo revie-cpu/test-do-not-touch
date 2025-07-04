@@ -26,9 +26,9 @@ versions.v1 = {
   bonusarray: [
     {
       name: "Baby",
-      src: "v4-b1-baby-hb",
-      code: "1,2,3,4,5",
-      sound: "bonus-baby",
+      src: "v4-b1-love-hb",
+      code: "1,2,6,11,17",
+      sound: "bonus-love",
       aspire: "aspire",
       expire: "",
       icon: "",
