@@ -31,7 +31,7 @@ versions.v1 = {
       sound: "bonus-love",
       aspire: "aspire",
       expire: "",
-      icon: "",
+      icon: "icon.svg",
       loop: 1,
     },
     {
@@ -41,7 +41,7 @@ versions.v1 = {
       sound: "bonus-follow",
       aspire: "aspire",
       expire: "",
-      icon: "",
+      icon: "icon-2.svg",
       loop: 1,
     },
     {
@@ -51,7 +51,7 @@ versions.v1 = {
       sound: "bonus-eagle",
       aspire: "aspire",
       expire: "",
-      icon: "",
+      icon: "icon-3.svg",
       loop: 1,
     },
   ],
