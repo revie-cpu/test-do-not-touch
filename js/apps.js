@@ -26,7 +26,7 @@ versions.v1 = {
   bonusarray: [
     {
       name: "Baby",
-      src: "v4-b1-love-hb",
+      src: "v4-b1",
       code: "1,2,6,11,17",
       sound: "bonus-love",
       aspire: "aspire",
@@ -36,7 +36,7 @@ versions.v1 = {
     },
     {
       name: "Follow",
-      src: "v4-b2-follow-hb",
+      src: "v4-b2",
       code: "1,6,8,12,18",
       sound: "bonus-follow",
       aspire: "aspire",
@@ -46,7 +46,7 @@ versions.v1 = {
     },
     {
       name: "Eagle",
-      src: "v4-b3-eagle-hb",
+      src: "v4-b3",
       code: "1,3,6,13,16",
       sound: "bonus-eagle",
       aspire: "aspire",
