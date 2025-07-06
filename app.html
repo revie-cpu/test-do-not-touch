@@ -1357,3 +1357,37 @@ function closeFullscreen() {
     </script>
   </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Incredibox Test - App</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #111;
+      color: #eee;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>Incredibox Test - App Page</h1>
+  <script src="incredibox-app.js"></script> <!-- Put your Incredibox script here -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const elem = document.documentElement;
+      if (elem.requestFullscreen) {
+        elem.requestFullscreen().catch(err => {
+          console.warn("Fullscreen error:", err);
+        });
+      }
+    });
+  </script>
+</body>
+</html>
