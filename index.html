@@ -1067,5 +1067,15 @@
         </symbol>
       </defs>
     </svg>
+    <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const elem = document.documentElement;
+      if (elem.requestFullscreen) {
+        elem.requestFullscreen().catch((err) => {
+          console.warn("Fullscreen error:", err);
+        });
+      }
+    });
+    </script>
   </body>
 </html>
