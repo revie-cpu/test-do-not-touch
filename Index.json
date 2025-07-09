@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "theme": "Street Rhythm",
+  "bpm": 100,
+  "characters": [
+    {
+      "id": "char_beat",
+      "name": "Bouncer",
+      "type": "beat",
+      "sound": "sounds/beat1.mp3",
+      "loop": true,
+      "visual": "assets/bouncer.png",
+      "animation": "bounce"
+    },
+    {
+      "id": "char_bass",
+      "name": "SubDrop",
+      "type": "bass",
+      "sound": "sounds/bass1.mp3",
+      "loop": true,
+      "visual": "assets/subdrop.png",
+      "animation": "nod"
+    },
+    {
+      "id": "char_melody",
+      "name": "Harmony",
+      "type": "melody",
+      "sound": "sounds/melody1.mp3",
+      "loop": true,
+      "visual": "assets/harmony.png",
+      "animation": "sway"
+    },
+    {
+      "id": "char_fx",
+      "name": "Glitch",
+      "type": "effect",
+      "sound": "sounds/fx1.mp3",
+      "loop": true,
+      "visual": "assets/glitch.png",
+      "animation": "flicker"
+    },
+    {
+      "id": "char_voice",
+      "name": "Vox",
+      "type": "voice",
+      "sound": "sounds/vox1.mp3",
+      "loop": true,
+      "visual": "assets/vox.png",
+      "animation": "sing"
+    },
+    {
+      "id": "char_chords",
+      "name": "Chordz",
+      "type": "chords",
+      "sound": "sounds/chords1.mp3",
+      "loop": true,
+      "visual": "assets/chordz.png",
+      "animation": "vibe"
+    }
+  ],
+  "settings": {
+    "maxActiveCharacters": 6,
+    "background": "assets/background_city.png",
+    "startOnLoad": false
+  }
+}
